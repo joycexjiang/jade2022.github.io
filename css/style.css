@@ -1,0 +1,64 @@
+body {
+	background-color: #FFFBFF;
+	color:  black;
+	font-family: 'Inter', sans-serif;
+	font-size: 17px;
+	text-align:  center;
+	margin: 2% 10% 2% 10%; /* top, right, bottom, left */
+
+	
+	background-image: url(../images/background.png);
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-width: 100% auto;
+}
+
+a {
+	color: black;
+	text-decoration: underline;
+	transition:800ms ease all;
+}
+
+a:hover{
+  color:  #9FC6FF;
+  transition:800ms ease all;
+}
+
+
+h1 {
+	font-family: 'Luxurious Roman', cursive;
+}
+
+p{
+	font-size:  15px;
+	line-height: 25px;
+}
+
+#bioNlinks {
+  width: 100%;
+  padding: 2% 0% 0% 0%; /*padding-top, padding-right, padding-bottom, and padding-left */
+  align-items: center;
+  display: inline-flex;
+}
+
+.bioBox {
+  width: 60%;
+  line-height:24px;
+  height: auto;
+  flex-grow: 1; /* makes all things inside container equal */
+}
+
+.linkBox {
+  width: 25%;
+  height: 100px;
+  text-align: left;
+  margin-top: -18%;
+  padding-left: 5%;
+}
+
+.links{
+  color: black;
+  font-size: 14px;
+  display:block;
+  text-align:left;
+}
