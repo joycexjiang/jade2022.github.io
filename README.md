@@ -5,4 +5,5 @@ In previous years, JADE participants have been hosted by companies such as Googl
 
 ## Objective
 ‣ created, revised, and taught [web development curriculum](https://www.notion.so/joycejiang/Web-Dev-JADE-2022-dcc2708e326e40dd8b392100327237d0) (HTML, CSS, JavaScript, Github) for the JADE Program at Columbia for the 2022 cohort, emphasizing user interface and accessibility 
+
 ‣ led, mentored, and interviewed 17 out of 70 applicants of first-year students through web development classes, virtual visits with leading tech startups and companies, and pre-professional development
